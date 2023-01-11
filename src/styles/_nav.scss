@@ -1,0 +1,39 @@
+nav {
+  display: flex;
+  min-height: 10vh;
+  justify-content: space-around;
+  align-items: center;
+  
+  button {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+    background: rgba(255, 255, 255, 0.455);
+    padding: 0.1rem 0.2rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    border: 2px solid hsl(211, 39%, 23%); // --clr-grey-2
+    
+    &:hover {
+      background: hsl(211, 39%, 23%); 
+      color: #fff;
+      svg {
+        fill: #fff;
+      }
+    }
+    
+    svg {
+      width: 1.5rem;
+      height: 1.5rem;
+    }
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  nav {
+    button {
+      z-index: 10;
+    }
+  }
+}
