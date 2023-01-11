@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alpha-music-app/static/css/main.9e52fd15.css",
+    "main.js": "/alpha-music-app/static/js/main.7f26c24a.js",
+    "static/js/787.ccca6db8.chunk.js": "/alpha-music-app/static/js/787.ccca6db8.chunk.js",
+    "index.html": "/alpha-music-app/index.html",
+    "static/media/Play.svg": "/alpha-music-app/static/media/Play.34c66d4ac00ffbd4603d7c60b36c088e.svg",
+    "static/media/Pause.svg": "/alpha-music-app/static/media/Pause.298df308c477daacd608d27acad1a44b.svg",
+    "static/media/Library.svg": "/alpha-music-app/static/media/Library.078bf3cb35cb81fabcaa6cd3bea3ca63.svg",
+    "static/media/RightArrow.svg": "/alpha-music-app/static/media/RightArrow.fa9f22157007818e4f271f490cc84953.svg",
+    "static/media/LeftArrow.svg": "/alpha-music-app/static/media/LeftArrow.310bfe6d838c5a4873e08f5e2dc050fe.svg",
+    "main.9e52fd15.css.map": "/alpha-music-app/static/css/main.9e52fd15.css.map",
+    "main.7f26c24a.js.map": "/alpha-music-app/static/js/main.7f26c24a.js.map",
+    "787.ccca6db8.chunk.js.map": "/alpha-music-app/static/js/787.ccca6db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e52fd15.css",
+    "static/js/main.7f26c24a.js"
+  ]
+}
